@@ -1,0 +1,30 @@
+button {
+    color: white;
+    background-color: #845460;
+}
+
+h2 {
+    padding-left: 70px;
+}
+
+.div {
+    width: 100vw;
+    height: 100vh;
+    background-color: teal;
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    padding-left: 60px;
+    /* text-align: center; */
+}
+
+
+/* text-align: center; */
+
+ul {
+    list-style: none;
+}
+
+.line {
+    text-decoration: line-through;
+}
